@@ -1,10 +1,11 @@
-### Hi, I'm Carlton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Carlton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=2112ee&right_color=191414)
 
-I'm a self-taught web developer with a background in hardware engineering and product development! Seattle Native :)
+
+I'm a self-taught web developer with a background in hardware engineering and product development!
 
 <hr/>
+<img align="right" alt="Carlton's Memoji" src="https://res.cloudinary.com/carlton-dev/image/upload/v1634795297/Github%20Profile/Imagen_duj9gv.png" />
 <p>
     <!-- <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -39,7 +40,7 @@ I'm a self-taught web developer with a background in hardware engineering and pr
   </p>
   <hr/>
   
-[![Carlton Lindsay StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12488762&layout=compact)](https://stackoverflow.com/users/12488762/carlton-lindsay)
+[![Carlton Lindsay StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12488762&theme=dark&layout=compact)](https://stackoverflow.com/users/12488762/carlton-lindsay)
 
 
 <a href="https://www.linkedin.com/in/carlton-lindsay-b2386740/">
@@ -49,7 +50,12 @@ I'm a self-taught web developer with a background in hardware engineering and pr
   <img align="left" alt="Carlton's's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=2112ee&right_color=191414)
+
 <!--
+Github profile README curated list:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
 Visitor's badge: https://github.com/jwenjian/visitor-badge
 Tech badges: https://shields.io/ - https://simpleicons.org - https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 
@@ -58,5 +64,12 @@ https://github.com/moertel/moertel/blob/main/README.md
 https://github.com/abhisheknaiidu/abhisheknaiidu
 https://github.com/Coordinate-Cat/Coordinate-Cat
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
+
+To add later:
+https://github.com/lowlighter/metrics
+https://github.com/athul/waka-readme
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/anuraghazra/github-readme-stats
+
 -->
 
