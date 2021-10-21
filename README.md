@@ -4,8 +4,10 @@
 
 I'm a self-taught web developer with a background in hardware engineering and product development! Seattle Native :)
 
-My tech stack:
 <hr/>
+
+My tech stack:
+
 <p>
     <!-- <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
