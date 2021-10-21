@@ -38,6 +38,9 @@ I'm a self-taught web developer with a background in hardware engineering and pr
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
   </p>
   <hr/>
+  
+[![Carlton Lindsay StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12488762&layout=compact)](https://stackoverflow.com/users/12488762/carlton-lindsay)
+
 
 <a href="https://www.linkedin.com/in/carlton-lindsay-b2386740/">
   <img align="left" alt="Carlton's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
