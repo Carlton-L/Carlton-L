@@ -2,26 +2,30 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=2112ee&right_color=191414)
 
-I'm a self-taught web developer based in Seattle, WA.
+I'm a self-taught web developer with a background in hardware engineering and product development! Seattle Native :)
 
+My tech stack:
+<hr/>
 <p>
     <!-- <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/> -->
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-00A5FB?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
     <!-- Request to add Juniper and Warp to badge library https://github.com/simple-icons/simple-icons/issues -->
     <img src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Gatsby-6425AD?style=flat-square&logo=Gatsby&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=materialui&logoColor=white"/>
     <img src="https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Docker-00A5FB?style=flat-square&logo=Docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+    
     <!-- <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
@@ -44,16 +48,13 @@ I'm a self-taught web developer based in Seattle, WA.
 </a>
 
 <!--
-**Carlton-L/Carlton-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Visitor's badge: https://github.com/jwenjian/visitor-badge
+Tech badges: https://shields.io/ - https://simpleicons.org - https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Inspiration: 
+https://github.com/moertel/moertel/blob/main/README.md
+https://github.com/abhisheknaiidu/abhisheknaiidu
+https://github.com/Coordinate-Cat/Coordinate-Cat
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
+
