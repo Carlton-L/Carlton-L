@@ -1,6 +1,6 @@
 ### Hi, I'm Carlton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=#2112ee&right_color=#191414)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=2112ee&right_color=191414)
 
 I'm a self-taught web developer based in Seattle, WA.
 
