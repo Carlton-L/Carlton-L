@@ -12,7 +12,7 @@ I'm a self-taught web developer based in Seattle, WA.
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=appollographql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
     <!-- Request to add Juniper and Warp to badge library https://github.com/simple-icons/simple-icons/issues -->
     <img src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Gatsby-6425AD?style=flat-square&logo=Gatsby&logoColor=white"/>
