@@ -1,6 +1,6 @@
 ### Hi, I'm Carlton <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=#2112ee&right_color=#191414)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=#2112ee&right_color=#D41A2B)
 
 I'm a self-taught web developer based in Seattle, WA.
 
@@ -16,6 +16,8 @@ I'm a self-taught web developer based in Seattle, WA.
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-00A5FB?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gatsby-6425AD?style=flat-square&logo=Gatsby&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Azure-006DCA?style=flat-square&logo=Azure&logoColor=white"/>
   </p>
 
 <a href="https://www.linkedin.com/in/carlton-lindsay-b2386740/">
