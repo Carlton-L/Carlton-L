@@ -2,7 +2,7 @@
 
 
 
-I'm a self-taught web developer with a background in hardware engineering and product development! I've been an established engineering professional in the hardware space, with a proven track record of managing people, processes, and technology. Now I'm focused on leveraging my ability to learn quickly, come up with new ideas for web projects, and take them from concept to completion.
+I'm a self-taught web developer with a background in hardware engineering and product development! I've been an established engineering professional in the hardware space, with a proven track record of managing people, processes, and technology. Now I'm focused on leveraging my ability to learn quickly - and master new languages, libraries, and frameworks - so I can come up with new ideas for web projects, and take them from concept to completion! :sparkles:
 
 Recently I've been working on:
 
