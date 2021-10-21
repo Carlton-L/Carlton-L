@@ -5,9 +5,6 @@
 I'm a self-taught web developer with a background in hardware engineering and product development! Seattle Native :)
 
 <hr/>
-
-My tech stack:
-
 <p>
     <!-- <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -40,6 +37,7 @@ My tech stack:
     <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
   </p>
+  <hr/>
 
 <a href="https://www.linkedin.com/in/carlton-lindsay-b2386740/">
   <img align="left" alt="Carlton's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
