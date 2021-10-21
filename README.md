@@ -17,7 +17,7 @@ I'm a self-taught web developer based in Seattle, WA.
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-00A5FB?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Gatsby-6425AD?style=flat-square&logo=Gatsby&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Azure-006DCA?style=flat-square&logo=Azure&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Azure-006DCA?style=flat-square&logo=MS-Azure&logoColor=white"/>
   </p>
 
 <a href="https://www.linkedin.com/in/carlton-lindsay-b2386740/">
