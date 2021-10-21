@@ -14,8 +14,7 @@ My tech stack:
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-    
-    
+    <hr/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-00A5FB?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
@@ -26,8 +25,7 @@ My tech stack:
     <img src="https://img.shields.io/badge/-Gatsby-6425AD?style=flat-square&logo=Gatsby&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=materialui&logoColor=white"/>
     <img src="https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
-    
-    
+    <hr/>
     <!-- <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/> -->
     <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
@@ -37,9 +35,6 @@ My tech stack:
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-    
-    
-    
   </p>
 
 <a href="https://www.linkedin.com/in/carlton-lindsay-b2386740/">
