@@ -6,7 +6,7 @@ I'm a self-taught web developer based in Seattle, WA.
 
 <p>
     <!-- <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white"/> -->
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=express&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javsascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
@@ -16,8 +16,8 @@ I'm a self-taught web developer based in Seattle, WA.
     <!-- Request to add Juniper and Warp to badge library https://github.com/simple-icons/simple-icons/issues -->
     <img src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black"/>
     <img src="https://img.shields.io/badge/-Gatsby-6425AD?style=flat-square&logo=Gatsby&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Material-UI-0081CB?style=flat-square&logo=materialui&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-styled-components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=materialui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Docker-00A5FB?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
