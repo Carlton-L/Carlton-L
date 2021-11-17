@@ -8,6 +8,9 @@ Recently I've been working on:
 
 https://carlton.dev/shuffleforspotify (work in progress)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <hr/>
 <img align="right" alt="Carlton's Memoji" src="https://res.cloudinary.com/carlton-dev/image/upload/v1634795297/Github%20Profile/Imagen_duj9gv.png" />
 <p>
