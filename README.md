@@ -9,6 +9,9 @@ Recently I've been working on:
 https://carlton.dev/shuffleforspotify (work in progress)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <hr/>
