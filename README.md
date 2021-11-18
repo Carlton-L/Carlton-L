@@ -10,7 +10,8 @@ https://carlton.dev/shuffleforspotify (work in progress)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   25 mins         ████████████████████▓░░░░   83.18 % 
+Other        4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 % 
 ```
 <!--END_SECTION:waka-->
 
