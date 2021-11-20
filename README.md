@@ -10,9 +10,9 @@ https://carlton.dev/shuffleforspotify (work in progress)
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   35 mins         ███████████████████░░░░░░   75.49 % 
-Other        8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.03 % 
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JavaScript   6 hrs 25 mins   ████████████████████████▒   97.12 % 
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
 
