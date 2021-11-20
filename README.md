@@ -6,9 +6,8 @@ I'm a self-taught web developer with a background in hardware engineering and pr
 
 Recently I've been working on:
 
-https://carlton.dev/shuffleforspotify (work in progress)
-
-https://greek.express
+- [ ] https://carlton.dev/shuffleforspotify (work in progress)
+- [x] https://greek.express
 
 <!--START_SECTION:waka-->
 ```text
