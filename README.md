@@ -11,9 +11,8 @@ Recently I've been working on:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   18 hrs 9 mins   ████████████████████████▓   99.00 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+JavaScript   8 hrs 9 mins    ████████████████████████▓   98.06 % 
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 <!--END_SECTION:waka-->
 
