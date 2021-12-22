@@ -11,7 +11,9 @@ Recently I've been working on:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS    20 mins         █████████████▓░░░░░░░░░░░   54.59 % 
+HTML   13 mins         ████████▓░░░░░░░░░░░░░░░░   34.79 % 
+JSON   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 ```
 <!--END_SECTION:waka-->
 
