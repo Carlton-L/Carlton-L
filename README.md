@@ -11,9 +11,7 @@ Recently I've been working on:
 
 <!--START_SECTION:waka-->
 ```text
-HTML   23 mins         ████████████▒░░░░░░░░░░░░   49.22 % 
-CSS    20 mins         ██████████▓░░░░░░░░░░░░░░   42.50 % 
-JSON   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+HTML   10 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
