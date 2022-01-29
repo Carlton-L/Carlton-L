@@ -11,7 +11,7 @@ Recently I've been working on:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   23 mins         ████████████████████████░   96.10 % 
 ```
 <!--END_SECTION:waka-->
 
