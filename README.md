@@ -11,8 +11,6 @@ Recently I've been working on:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 11 mins
-
 CSS          10 mins         ██████████████████████░░░   88.60 % 
 ```
 <!--END_SECTION:waka-->
