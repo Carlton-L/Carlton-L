@@ -10,9 +10,11 @@ Recently I've been working on:
 - [x] https://greek.express
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <hr/>
