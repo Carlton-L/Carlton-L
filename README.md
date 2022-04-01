@@ -12,12 +12,11 @@ Recently I've been working on:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 31 mins   █████████████████████▓░░░   86.39 %
-JSON         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-XML          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JavaScript   5 hrs 30 mins   █████████████████████▓░░░   86.18 %
+JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+CSS          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Markdown     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
