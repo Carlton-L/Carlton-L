@@ -48,7 +48,7 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
     <!-- Request to add Juniper and Warp to badge library https://github.com/simple-icons/simple-icons/issues -->
     <img src="https://img.shields.io/badge/-Express-ffffff?style=flat-square&logo=express&logoColor=black" alt="Express JS"/>
     <img src="https://img.shields.io/badge/-Gatsby-6425AD?style=flat-square&logo=Gatsby&logoColor=white" alt="Gatsby JS"/>
-    <img src="https://img.shields.io/badge/-Material--UI-000000?style=flat-square&logo=materialui&logoColor=0081CB" alt="Material UI"/>
+    <img src="https://img.shields.io/badge/-Material--UI-000000?style=flat-square&logo=mui&logoColor=0081CB" alt="Material UI"/>
     <img src="https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="styled-components"/>
     <img src="https://img.shields.io/badge/-Emotion-DB6BC0?style=flat-square&logo=CSS3&logoColor=white" alt="Emotion"/>
     <!-- <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=jest&logoColor=00B926" alt="Jest"/> -->
@@ -64,7 +64,7 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
     <img src="https://img.shields.io/badge/-Adobe XD-000000?style=flat-square&logo=adobexd&logoColor=FF61F6" alt="Adobe XD"/>
     <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
-    <img src="https://img.shields.io/badge/-5e DnD-000000?style=flat-square&logo=dungeonsanddragons&logoColor=ED1C24"alt="Dungeons and Dragons 5th edition"/>
+    <img src="https://img.shields.io/badge/-5e-000000?style=flat-square&logo=dungeonsanddragons&logoColor=ED1C24"alt="Dungeons and Dragons 5th edition"/>
   </p>
   <hr/>
   
