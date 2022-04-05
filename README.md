@@ -50,6 +50,7 @@ Other        6 mins          ▒░░░░░░░░░░░░░░░░
     <img src="https://img.shields.io/badge/-Gatsby-6425AD?style=flat-square&logo=Gatsby&logoColor=white" alt="Gatsby JS"/>
     <img src="https://img.shields.io/badge/-Material--UI-000000?style=flat-square&logo=materialui&logoColor=0081CB" alt="Material UI"/>
     <img src="https://img.shields.io/badge/-styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="styled-components"/>
+    <img src="https://img.shields.io/badge/-Emotion-DB6BC0?style=flat-square&logo=CSS3&logoColor=white" alt="Emotion"/>
     <!-- <img src="https://img.shields.io/badge/-Jest-white?style=flat-square&logo=jest&logoColor=00B926" alt="Jest"/> -->
     <!-- <img src="https://img.shields.io/badge/-Three.js-white?style=flat-square&logo=threedotjs&logoColor=000000" alt="Three.js"/> -->
 </p>
