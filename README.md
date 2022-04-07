@@ -74,9 +74,6 @@ Other        6 mins          ░░░░░░░░░░░░░░░░░
 <a href="https://www.linkedin.com/in/carlton-lindsay-b2386740/">
   <img align="left" alt="Carlton's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/cnpakv1amug7h92p649oo045y?si=e645f18ec1d6486b">
-  <img align="left" alt="Carlton's's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=2112ee&right_color=191414)
 
