@@ -13,12 +13,11 @@ Recently I've been working on:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   21 hrs 41 mins  ██████████████████████▓░░   91.04 %
-Markdown     1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-JSON         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JavaScript   16 hrs 39 mins  ████████████████████████▒   96.88 %
+JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
