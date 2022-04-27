@@ -13,7 +13,8 @@ Recently I've been working on:
 <!--START_SECTION:waka-->
 
 ```text
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Swift   51 mins         █████████████████████████   100.00 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
