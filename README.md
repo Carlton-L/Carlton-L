@@ -13,10 +13,12 @@ Recently I've been working on:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 3 mins     ██████████████▓░░░░░░░░░░   58.09 %
-Swift        45 mins         ██████████▒░░░░░░░░░░░░░░   41.72 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   1 hr 6 mins     █████████████▒░░░░░░░░░░░   53.81 %
+Swift        46 mins         █████████▒░░░░░░░░░░░░░░░   37.20 %
+TypeScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
