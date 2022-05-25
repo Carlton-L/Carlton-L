@@ -13,9 +13,7 @@ Recently I've been working on:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   43 mins         ████████████████████████▓   98.45 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+TypeScript   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
