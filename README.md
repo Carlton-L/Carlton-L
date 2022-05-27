@@ -13,7 +13,8 @@ Recently I've been working on:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   8 mins          █████████████████████████   100.00 %
+TypeScript   8 mins          ████████████████████████▓   98.80 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
