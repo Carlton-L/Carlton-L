@@ -13,9 +13,9 @@ Recently I've been working on:
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   13 mins         ████████████████▓░░░░░░░░   67.05 %
-JavaScript   6 mins          ████████░░░░░░░░░░░░░░░░░   32.45 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JavaScript   6 mins          ██████████████░░░░░░░░░░░   55.37 %
+TypeScript   5 mins          ███████████░░░░░░░░░░░░░░   43.78 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
