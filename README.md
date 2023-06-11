@@ -14,13 +14,13 @@ Recently I've been working on:
 <img align="right" alt="Carlton's Memoji" src="https://res.cloudinary.com/carlton-dev/image/upload/v1634795297/Github%20Profile/Imagen_duj9gv.png" />
 <p>
     <!-- <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=F2401C" alt="Rust Language"/> -->
-    <!-- <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=F2401C" alt="Rust Language"/> -->
+    <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue JS"/>
+    <!-- <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=F2401C" alt="TypeScript"/> -->
     <img src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=HTML5&logoColor=E34F26" alt="HTML 5"/>
     <img src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=CSS3&logoColor=1572B6" alt="CSS 3"/>
     <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/-GraphQL-000000?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL"/>
     <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" alt="React JS"/>
-    <!-- <img src="https://img.shields.io/badge/-Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue JS"/> -->
     <img src="https://img.shields.io/badge/-NodeJS-000000?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node JS"/>
     <!-- <img src="https://img.shields.io/badge/-WebAssembly-000000?style=flat-square&logo=webassembly&logoColor=654FF0" alt="Web Assembly"/> -->
     <!-- <img src="https://img.shields.io/badge/-Swift-000000?style=flat-square&logo=swift&logoColor=FA7343" alt="Swift"/> -->
