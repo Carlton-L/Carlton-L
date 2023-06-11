@@ -6,17 +6,9 @@ I'm a self-taught web developer with a background in hardware engineering and pr
 
 Recently I've been working on:
 
-- [ ] https://carlton.dev/carmelostacos (92% complete)
+- [ ] https://carlton.dev/carmelostacos (95% complete)
 - [ ] https://carlton.dev/shuffleforspotify (40% complete)
 - [x] https://greek.express
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <hr/>
 <img align="right" alt="Carlton's Memoji" src="https://res.cloudinary.com/carlton-dev/image/upload/v1634795297/Github%20Profile/Imagen_duj9gv.png" />
