@@ -65,6 +65,7 @@ Recently I've been working on:
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l.carlton-l&left_color=2112ee&right_color=191414)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=carlton-l&left_color=green&right_color=red)
 
 <!--
 Github profile README curated list:
