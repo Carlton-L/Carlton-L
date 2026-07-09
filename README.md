@@ -5,7 +5,7 @@
 
 ### Hey, I'm Carlton 👋
 
-I'm a **design engineer** — I design AI-native interfaces and then actually build and ship them. Mostly knowledge graphs, node-based pipelines, and research tools where people steer AI systems.
+I'm a **design engineer**; I design AI-native interfaces and then actually build and ship them. Mostly knowledge graphs, node-based pipelines, and research tools where people steer AI systems.
 
 I came up through hardware and product, so I care about things that *work*, not just things that demo. Designer who deploys, engineer who dreams — I build what I design.
 
