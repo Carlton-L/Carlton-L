@@ -1,67 +1,39 @@
-<!-- ===================================================================== -->
-<!--  Carlton-L profile README · patch network  ·  edit assets/patch-banner.svg -->
-<!-- ===================================================================== -->
+<!-- Profile README · Carlton-L/Carlton-L -->
+<!-- The animated patch banner lives in /assets/patch-banner.svg — kept in the repo, not shown here for now. -->
 
-<p align="center">
-  <img src="./assets/patch-banner.svg" alt="Carlton Lindsay — Design Engineer. A dataflow patch where DESIGNER and ENGINEER operators feed a build() node that outputs 'I build what I design.'" width="100%" />
-</p>
+<img align="right" width="300" alt="Carlton, at the laptop" src="https://res.cloudinary.com/carlton-dev/image/upload/v1634795297/Github%20Profile/Imagen_duj9gv.png" />
 
-<h3 align="center">Designer who deploys. Engineer who dreams. I build what I design.</h3>
+### Hey, I'm Carlton 👋
 
-<p align="center">
-  I build <b>AI-native interfaces</b> — knowledge graphs, node-based pipelines, and research
-  tools where people steer AI systems. I design them <i>and</i> I ship them.
-</p>
+I'm a **design engineer** — I design AI-native interfaces and then actually build and ship them. Mostly knowledge graphs, node-based pipelines, and research tools where people steer AI systems.
 
-<p align="center">
-  <a href="https://carlton.dev">carlton.dev</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/carltonl">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:carlton@carlton.dev">carlton@carlton.dev</a>
-</p>
+I came up through hardware and product, so I care about things that *work*, not just things that demo. Designer who deploys, engineer who dreams — I build what I design.
 
-<br/>
+**On the bench right now**
 
-## ` ▸ ` currently&nbsp;cooking
+- **[carlton.dev](https://carlton.dev)** — my portfolio, built as a live dataflow patch
+- **[FAST](https://carlton.dev/projects/fast)** — knowledge-graph analysis + LLM invention tools
+- **[Futurescaper](https://carlton.dev/projects/futurescaper)** — AI-orchestrated futures exploration
+- **[GRID](https://carlton.dev/projects/grid-lamp)** — motion-reactive kinetic light, real-time 3D in the browser
+- a self-hosted RAG "digital twin" of my work — Ollama + sqlite-vec, running on a Pi 5
 
-| node | what it is |
-| :--- | :--- |
-| **[carlton.dev](https://carlton.dev)** | My portfolio, built as a live dataflow patch — typed operators, real message-passing cables, and a dither background you can tweak. Astro + vanilla-JS runtime. |
-| **[FAST](https://carlton.dev/projects/fast)** | Analysis & synthesis platform: knowledge-graph visualization, node-based analysis workflows, and LLM invention tools. Led frontend + UX end to end. |
-| **[Futurescaper](https://carlton.dev/projects/futurescaper)** | A futures-exploration tool — custom graph layouts and AI orchestration for navigating scenario spaces. |
-| **[GRID — Kinetic Light](https://carlton.dev/projects/grid-lamp)** | A motion-reactive kinetic light installation. Real-time 3D studio scene in the browser. |
-| **RAG digital twin** | A self-hosted retrieval-augmented chatbot of my own work — Ollama + sqlite-vec on a Pi 5, zero API cost. *(wiring it up)* |
+<br clear="right"/>
 
-<br/>
+#### Stack
 
-## ` ▸ ` stack
-
-**Design → Build**
-&nbsp;
 <img src="https://img.shields.io/badge/-Figma-0a0c0b?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma"/>
 <img src="https://img.shields.io/badge/-Astro-0a0c0b?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro"/>
 <img src="https://img.shields.io/badge/-React-0a0c0b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/-TypeScript-0a0c0b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/-Tailwind-0a0c0b?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS"/>
-
-**3D & Motion**
-&nbsp;
 <img src="https://img.shields.io/badge/-Three.js-0a0c0b?style=flat-square&logo=threedotjs&logoColor=ffffff" alt="Three.js"/>
-<img src="https://img.shields.io/badge/-R3F-0a0c0b?style=flat-square&logo=react&logoColor=61DAFB" alt="React Three Fiber"/>
 <img src="https://img.shields.io/badge/-GSAP-0a0c0b?style=flat-square&logo=greensock&logoColor=88CE02" alt="GSAP"/>
-<img src="https://img.shields.io/badge/-Framer%20Motion-0a0c0b?style=flat-square&logo=framer&logoColor=ffffff" alt="Framer Motion"/>
-<img src="https://img.shields.io/badge/-Canvas-0a0c0b?style=flat-square&logo=html5&logoColor=E34F26" alt="Canvas"/>
-
-**AI & Backend**
-&nbsp;
 <img src="https://img.shields.io/badge/-Python-0a0c0b?style=flat-square&logo=python&logoColor=FFDD54" alt="Python"/>
 <img src="https://img.shields.io/badge/-Ollama-0a0c0b?style=flat-square&logo=ollama&logoColor=ffffff" alt="Ollama"/>
 <img src="https://img.shields.io/badge/-Node.js-0a0c0b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
-<img src="https://img.shields.io/badge/-SQLite-0a0c0b?style=flat-square&logo=sqlite&logoColor=003B57" alt="SQLite"/>
 <img src="https://img.shields.io/badge/-Docker-0a0c0b?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
 
 <br/>
-
-## ` ▸ ` the&nbsp;snake&nbsp;eats&nbsp;the&nbsp;graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Carlton-L/Carlton-L/output/github-snake-dark.svg" />
@@ -69,8 +41,4 @@
   <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Carlton-L/Carlton-L/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
-
-<p align="center">
-  <sub><code>◆</code> &nbsp; Built as a patch. Cables carry real signals. &nbsp; <code>◆</code></sub>
-</p>
+<sub>[carlton.dev](https://carlton.dev) · [LinkedIn](https://linkedin.com/in/carltonl) · [carlton@carlton.dev](mailto:carlton@carlton.dev)</sub>
