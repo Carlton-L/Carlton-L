@@ -11,10 +11,10 @@ I came up through hardware and product, so I care about things that *work*, not 
 
 **On the bench right now**
 
-- **[carlton.dev]([https://carlton.dev](https://carlton.dev/?utm_source=github&utm_campaign=profile-readme))** — my portfolio, built as a live dataflow patch
-- **[FAST]([https://carlton.dev/projects/fast](https://carlton.dev/projects/fast/?utm_source=github&utm_campaign=profile-readme))** — knowledge-graph analysis + LLM invention tools
-- **[Futurescaper]([https://carlton.dev/projects/futurescaper](https://carlton.dev/projects/futurescaper/?utm_source=github&utm_campaign=profile-readme))** — AI-orchestrated futures exploration
-- **[GRID]([https://carlton.dev/projects/grid-lamp](https://carlton.dev/projects/grid-lamp/?utm_source=github&utm_campaign=profile-readme))** — motion-reactive kinetic light, real-time 3D in the browser
+- **[carlton.dev](https://carlton.dev](https://carlton.dev/?utm_source=github&utm_campaign=profile-readme))** — my portfolio, built as a live dataflow patch
+- **[FAST](https://carlton.dev/projects/fast](https://carlton.dev/projects/fast/?utm_source=github&utm_campaign=profile-readme))** — knowledge-graph analysis + LLM invention tools
+- **[Futurescaper](https://carlton.dev/projects/futurescaper](https://carlton.dev/projects/futurescaper/?utm_source=github&utm_campaign=profile-readme))** — AI-orchestrated futures exploration
+- **[GRID](https://carlton.dev/projects/grid-lamp](https://carlton.dev/projects/grid-lamp/?utm_source=github&utm_campaign=profile-readme))** — motion-reactive kinetic light, real-time 3D in the browser
 - a self-hosted RAG "digital twin" of my work — Ollama + sqlite-vec, running on a Pi 5
 
 <br clear="right"/>
@@ -41,4 +41,4 @@ I came up through hardware and product, so I care about things that *work*, not 
   <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Carlton-L/Carlton-L/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<sub>[carlton.dev]([https://carlton.dev](https://carlton.dev/?utm_source=github&utm_campaign=profile-readme)) · [LinkedIn](https://linkedin.com/in/carltonl) · [carlton@carlton.dev](mailto:carlton@carlton.dev)</sub>
+<sub>[carlton.dev](https://carlton.dev](https://carlton.dev/?utm_source=github&utm_campaign=profile-readme)) · [LinkedIn](https://linkedin.com/in/carltonl) · [carlton@carlton.dev](mailto:carlton@carlton.dev)</sub>
